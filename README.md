@@ -1,8 +1,7 @@
-```
-Nome Completo: Leonardo Machado Alves de Lima
-Endereço: Maria Joaquina Vaz, Itaqui, Campo Largo - PR
-Telefone: 41 99921 4248
-E-mail: leonardomalvesg@gmail.com
+- Nome Completo: Leonardo Machado Alves de Lima
+- Endereço: Maria Joaquina Vaz, Itaqui, Campo Largo - PR
+- Telefone: 41 99921 4248
+- E-mail: leonardomalvesg@gmail.com
 
 Objetivo Profissional:
 Desenvolvedor Web Sênior em uma empresa inovadora que valorize a qualidade técnica e que proponha sempre novos desafios.
@@ -19,7 +18,7 @@ Habilidades Técnicas:
 - Metodologias ágeis: Scrum, Kanban.
 
 Experiência Profissional:
-**Power Vending**
+Power Vending
 - Período: 02/2017 – 04/2023
 - Cargo: Desenvolvedor Web Sênior
 
@@ -31,7 +30,7 @@ Principais Atividades:
 - Integração de sistemas com APIs de terceiros.
 - Desenvolvimento de testes automatizados e realização de testes manuais.
 
-**Voluti Pagamentos**
+Voluti Pagamentos
 - Período: 05/2023
 - Cargo: Desenvolvedor Sênior
 
@@ -52,6 +51,3 @@ Informações Adicionais:
 - Disponibilidade para trabalhar em horários flexíveis;
 - Regime CLT ou PJ;
 - Preferencialmente Remoto.
-```
-
-Lembre-se de que o formato pode variar dependendo das especificações do arquivo .mr que você está usando. Certifique-se de seguir as diretrizes específicas do formato .mr, se houver.
