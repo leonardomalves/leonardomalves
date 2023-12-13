@@ -1,5 +1,3 @@
-Certamente, você pode formatar o texto para um arquivo .mr da seguinte maneira:
-
 ```
 Nome Completo: Leonardo Machado Alves de Lima
 Endereço: Maria Joaquina Vaz, Itaqui, Campo Largo - PR
