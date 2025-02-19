@@ -1,5 +1,4 @@
 - Nome Completo: Leonardo Machado Alves de Lima
-- Endereço: Maria Joaquina Vaz, Itaqui, Campo Largo - PR
 - Telefone: 41 99921 4248
 - E-mail: leonardomalvesg@gmail.com
 
